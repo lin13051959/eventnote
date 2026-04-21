@@ -1,6 +1,6 @@
 # EventNote - 事件管理应用
 
-一个现代化的 Android 事件管理应用，使用 Jetpack Compose 和 MVVM 架构开发。
+一个现代化的 Android 事件管理应用，使用 Jetpack Compose 和 MVVM 架构开发。🚀
 
 ## 📸 应用预览
 
