@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 基础主题 (Compse 应用使用自定义主题系统) -->
+    <style name="Theme.EventNote" parent="@android:style/Theme.Material.Light.NoActionBar">
+        <!-- 状态栏颜色 (Compose 主题会动态覆盖此设置) -->
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+    </style>
+</resources>

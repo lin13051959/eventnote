@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- 白色圆形背景 -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,54m-50,0a50,50 0,1 1,100 0a50,50 0,1 1,-100 0" />
+    
+    <!-- 笔记本外框 - 紫色 -->
+    <path
+        android:fillColor="#9C27B0"
+        android:pathData="M34,34l2,0l0,26l2,0l0,-24l24,0l0,24l2,0l0,-26l2,0l0,28l-30,0z" />
+    
+    <!-- 事件列表横线 -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M40,40l18,0l0,2l-18,0z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M40,44l18,0l0,2l-18,0z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M40,48l14,0l0,2l-14,0z" />
+    
+    <!-- 添加新事件的加号图标（右上角） -->
+    <path
+        android:fillColor="#E91E63"
+        android:pathData="M63,37l8,0l0,8l-8,0z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M66,40l0,4l-2,0l0,-4l-2,0l0,-2l2,0l0,-2l2,0l0,2l2,0l0,2z" />
+</vector>

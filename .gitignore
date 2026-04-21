@@ -1,0 +1,14 @@
+*.iml
+build/
+.externalNativeBuild
+.cxx/
+.DS_Store
+.idea/
+/local.properties
+.gradle/
+logs/
+**/*.class
+**/*.log
+EOF
+
+mkdir -p "E:\EventNote\gradlew.bat" && mkdir -p "E:\EventNote\README_APK.md"

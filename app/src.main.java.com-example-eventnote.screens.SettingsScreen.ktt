@@ -1,0 +1,8 @@
+package com.example.eventnote.ui.screens
+
+import androidx.compose.*
+
+@Composable
+fun SettingsScreen() {
+    Column(Modifier.fillMaxSize())
+}
